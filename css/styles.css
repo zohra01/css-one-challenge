@@ -1,0 +1,62 @@
+.ek {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    padding: 5px;
+    margin: 6px;
+}
+
+.do {
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    padding: 2px;
+    margin: 0px;
+}
+
+.teen {
+    text-align: center;
+    color:rgba(0, 0, 0, 0.678);
+    font-size: 20px;
+    padding: 1px;
+    margin: 4px;
+}
+
+.char {
+text-align: center;
+color: lightgrey;
+}
+
+.button {
+background-color: blue;
+    color: white;
+}
+
+.fat {
+    text-align: center;
+    color: dimgrey;
+    padding: 10px;
+}
+
+.zoh {
+    text-align: center;
+    padding: 40px;
+}
+
+.az {
+    padding: 30px;
+    font-size: 40px;
+    width: 50px;
+    }
+
+    .az-facebook {
+        color: white;
+    }
+
+    .az-instagram {
+        color: white;
+    }
+
+    .az-twitter {
+        color: white;
+    }
